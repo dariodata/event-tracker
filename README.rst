@@ -20,6 +20,9 @@ can be documented as (YYYY, MM, DD, HH).
 
 e.g. visits to the cinema, doctor appointments, public appearances, etc.
 
+List of earthquakes from: http://world-earthquakes.com/index.php?option=eqs&year=2016
+List of film releases USA: http://www.firstshowing.net/schedule2016/
+
 Dependencies
 ~~~~~~~~~~~~
 
